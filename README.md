@@ -2,7 +2,7 @@
 Improving Southwest Airlines Customer Service Operations with Text Analytics and Classification
 
 
-My name is Masaya, and I am a Business Analytics master's student at Fordham University. I have always been interested in using data to solve real-world problems, which is what drew me to this customer service project for Southwest Airlines. Through this project, I have gained valuable experience in data collection, preprocessing, and machine learning techniques, and I am excited to share my work with others.
+My name is Masaya, and I am a Business Analytics master's student at Fordham University. I have always been interested in using data to solve real-world problems and my bacckground is crisis management, which is what drew me to this customer service project for Southwest Airlines. Through this project, I have gained valuable experience in data collection, preprocessing, and machine learning techniques, and I am excited to share my work with others.
 
 ## Problem Statement:
 Southwest Airline received a large volume of customer inquiries on Twitter when their system was broken down in December 2022. This has led to a poor customer experience and loss of business. The focus of this project is to build a classification model that can automatically classify customer inquiries on Twitter, which will help to improve the efficiency of Southwest Airline's customer service operations. 
