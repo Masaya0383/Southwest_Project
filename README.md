@@ -1,5 +1,5 @@
-# Southwest_Project
-## Improving Southwest Airlines Customer Service Operations with Text Analytics and Classification
+# Improving Southwest Airlines Customer Service Operations with Text Analytics and Classification
+## Background
 
 As a Business Analytics student, I have always been interested in using data to solve real-world problems, and my background in crisis management drew me to this customer service project for Southwest Airlines. Through this project, I have gained valuable experience in data collection, preprocessing, and machine learning techniques. I am excited to share my work with others.
 
